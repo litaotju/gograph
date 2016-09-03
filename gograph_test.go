@@ -2,7 +2,7 @@ package gograph
 
 import (
     "testing"
-    "gograph/class"
+    "gograph/graph"
     "gograph/alg"
     "fmt"
     "strings"

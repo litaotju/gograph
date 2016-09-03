@@ -1,7 +1,7 @@
 package alg
 
 import (
-    "gograph/class"
+    "gograph/graph"
     "container/list"
     "errors"
     "fmt"
